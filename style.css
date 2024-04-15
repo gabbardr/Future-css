@@ -1,5 +1,10 @@
 body {
     display: grid;
     place-items: center;
-    top: 75%;
+}
+
+.mybutton {
+    width: 25%;
+    height: 30%;
+    
 }
